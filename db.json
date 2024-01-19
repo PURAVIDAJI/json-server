@@ -1,16 +1,60 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": "76f2",
+      "userid": "happyday",
+      "username": "김인지",
+      "password": "Password123",
+      "email": "ijk9501@naver.com",
+      "gender": "woman"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "cd1e",
+      "userid": "lovelyday",
+      "username": "박블리",
+      "password": "Password123",
+      "email": "lovely@gmail.com",
+      "gender": "woman"
+    },
+    {
+      "id": "1d11",
+      "userid": "ttungnyange",
+      "username": "뚱냥이",
+      "password": "cat123456A",
+      "email": "ttungnyange@naver.com",
+      "gender": "man"
+    },
+    {
+      "id": "fe93",
+      "userid": "jjjkkk",
+      "username": "김인주",
+      "password": "Password123",
+      "email": "ijk9501@naver.com",
+      "gender": "man"
+    },
+    {
+      "id": "2d18",
+      "userid": "aldante",
+      "username": "김슬로",
+      "password": "PAssword123",
+      "email": "lovely@gmail.com",
+      "gender": "man"
+    },
+    {
+      "id": "66fa",
+      "userid": "hihihi",
+      "username": "이하이",
+      "password": "PAssword123",
+      "email": "88iijj@naver.com",
+      "gender": "woman"
+    },
+    {
+      "id": "6fd7",
+      "userid": "hehehe",
+      "username": "김헤나",
+      "password": "Password123",
+      "email": "kkkiii@naver.com",
+      "gender": "man"
     }
   ]
 }
